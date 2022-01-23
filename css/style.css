@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 5000px;
+    font-family: Poppins, sans-serif;
+    background-color: #414446;
+}
+
+.container{
+    display: block;
+    width: 1300px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.info{
+    display: block;
+    width: 55%;
+    height: 75%;
+    float: left;
+    margin: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: rgba(0, 162, 255, 0.8);
+    box-sizing: border-box;
+}
+
+.info h1{
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.info p{
+    padding: 15px;
+    font-size: 18px;
+}
+
+.buttons{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button-container{
+    display: inline-block;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.button-container button{
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#task{
+    display: block;
+    width: 75%;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.list-container{
+    display: inline-block;
+    width: 400px;
+    margin: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:rgba(0, 162, 255, 0.8);
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.list-container h1{
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.list{
+    display: block;
+    width: 350px;
+    margin: auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.list ul{
+    text-align: left;
+    list-style-position: inside;
+}
+
+.list ul li{
+    font-size: 28px;
+}
