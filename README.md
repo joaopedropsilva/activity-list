@@ -1,6 +1,6 @@
 # Activity List
 
-Project Link: [activity-list](https://joaopedropsilva.github.io/activity-list/)
+### Project Link: [activity-list](https://joaopedropsilva.github.io/activity-list/)
 
 ## 📖 Sobre o Projeto / About the Project
 
